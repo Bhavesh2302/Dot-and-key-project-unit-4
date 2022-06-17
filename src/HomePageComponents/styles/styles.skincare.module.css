@@ -1,0 +1,35 @@
+.bhskincaremain{
+    margin-top: 30px;
+}
+
+
+.bhskincareitems{
+    /* border:  solid red; */
+    height: 450px;
+}
+
+.bhskincareimage{
+    border-radius: 15px;
+    height: 450px;
+    /* opacity: 1;
+    transition: opacity .4s ease;
+    max-width: 100%; */
+}
+.bhskincareimage img{
+    border-radius: 15px;
+    height: 450px;
+    opacity: 1;
+    transition: opacity .4s ease;
+    max-width: 100%;
+}
+.bhskincarenutrtionimg{
+    margin: auto;
+    margin-top: 30px;
+    width:80%;
+
+}
+.bhskincarenutrtionimg img{
+    border-radius: 15px;
+    width:100%;
+
+}

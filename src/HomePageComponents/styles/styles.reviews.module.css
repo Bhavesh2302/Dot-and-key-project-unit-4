@@ -1,0 +1,62 @@
+.bhreviewsmain{
+    
+    margin-top: 30px;
+    margin: auto;
+  
+}
+
+.bhreviewsitems{
+    /* border :2px solid blue; */
+    height: 400px;
+    width: 90%;
+
+margin: auto;
+
+}
+.bhreviewsmappingdiv{
+    height:500px;
+   
+    position: relative;
+    width: 100%;
+}
+
+.bhreviewsimageurl{
+   position: relative;
+   /* border: 2px solid black; */
+   margin-left: 35px;
+
+}
+
+.bhreviewsimageurl img{
+  
+    width:100%;
+    height: 300px;
+border-radius: 15px;
+display: block;
+margin: auto;
+}
+.bhreviewsimageurl  div{
+    position: absolute;
+    
+}
+.bhreviewsdata{
+    margin: auto;
+  background-color: white;
+  
+  border-radius: 10px;
+  font-size: 12px;
+  text-align: center;
+  line-height: 25px;
+  /* padding: 15px 5x; */
+    /* border:2px solid red ; */
+    top: 250px;
+    left: 20px;
+
+    height:120px;
+    width:60%;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+.bhreviewsdata p{
+margin-left:  10px;
+margin-right:  10px;
+}

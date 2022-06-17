@@ -1,0 +1,16 @@
+.bhcarousel1maindiv{
+    /* border:4px solid black; */
+    height:400px;
+    margin-top: 30px;
+
+}
+
+
+.bhcarousel1{
+
+    height:400px;
+}
+.bhcarousel1image img{
+width: 100%;
+border-radius: 15px;
+}
