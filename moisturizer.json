@@ -1,0 +1,167 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "image": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/1-Vit-C-Moisturizer-A_-Listing-NEW_e75ddb63-7d9e-4e71-bb35-0e050969a6b1_360x.jpg?v=1654856343",
+      "name": "Vitamin C Moisturizer With Kakadu Plum & Vitamin E| Fades Pigmentation & Dark Spots| Oily & Dry Skin",
+      "PriceCut": 595,
+      "Price": 561.01,
+      "review": 213,
+      "name1": "Vitamin C Moisturizer With Kakadu Plum & Vitamin E| Fades Pigmentation & Dark Spots| Oily & Dry Skin| Women and Men",
+      "name3": "Makes Skin Glow | Moisturizes | Even Tones OILY, DRY SKIN TYPE"
+    },
+    {
+      "id": 2,
+      "image": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-2_360x.jpg?v=1649323852",
+      "name": "CICA Niacinamide Night Gel With Green Tea, Tea Tree Oil & Hyaluronic| Reduces Acne & Dark Spots",
+      "PriceCut": 595,
+      "Price": 565.01,
+      "review": 114,
+      "name1": "CICA Niacinamide Night Gel With Green Tea, Tea Tree Oil & Hyaluronic| Reduces Acne & Dark Spots | Oily, Acne Prone & Sensitive Skin| Women & Men"
+    },
+    {
+      "id": 3,
+      "image": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_9ceca45a-10b4-40ed-b077-28971a3c3775_360x.jpg?v=1649324721",
+      "name": "72 HR Hydrating Probiotic Gel Moisturizer For Face With Hyaluronic & Rice Water| For Healthy,Soft Skin",
+      "PriceCut": 745,
+      "Price": 670.05,
+      "review": 119,
+      "name1": "72 HR Hydrating Probiotic Gel Moisturizer For Face With Hyaluronic & Rice Water| For Healthy,Soft Skin| Combination, Dry Skin| Women & Men"
+    },
+    {
+      "id": 4,
+      "image": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_0f431e19-6282-4e3c-8987-51859bf1275a_360x.jpg?v=1649327378",
+      "name": "Retinol & Ceramide Age Defense Night Cream For Face| Treats Fine Lines & Wrinkles",
+      "PriceCut": 945,
+      "Price": 850.02,
+      "review": 201,
+      "name1": "Retinol & Ceramide Age Defense Night Cream For Face| Treats Fine Lines & Wrinkles | Mature, Combination, Dry Skin| Women & Men"
+    },
+    {
+      "id": 5,
+      "image": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-10_360x.jpg?v=1646475087",
+      "name": "Watermelon Super Glow Matte Face Cream With Glycolic | Minimizes Pores & Evens Skin Tone",
+      "PriceCut": 595,
+      "Price": 561.01,
+      "review": 190,
+      "name1": "Watermelon Super Glow Matte Face Cream With Glycolic | Minimizes Pores & Evens Skin Tone| Combination & Oily skin| Women & Men"
+    },
+    {
+      "id": 6,
+      "image": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-18_360x.jpg?v=1644916747",
+      "name": "AVOCADO SMOOTHIE DAY CREAM SPF 20",
+      "PriceCut": 595,
+      "Price": 561.01,
+      "review": 115,
+      "name1": "AVOCADO SMOOTHIE DAY CREAM SPF 20"
+    },
+    {
+      "id": 7,
+      "image": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/day-night_1800x1800_1_360x.png?v=1628595712",
+      "name": "DAY & NIGHT CARE COMBO",
+      "PriceCut": 595,
+      "Price": 561.01,
+      "review": 150,
+      "name1": "DAY & NIGHT CARE COMBO"
+    },
+    {
+      "id": 8,
+      "image": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/HandCream-L_360x.jpg?v=1638974908",
+      "name": "VDAY & NIGHT CARE COMBO",
+      "PriceCut": 595,
+      "Price": 561.01,
+      "review": 213,
+      "name1": "VDAY & NIGHT CARE COMBO"
+    },
+    {
+      "id": 9,
+      "image": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/HandCream-Rose_360x.jpg?v=1644862602",
+      "name": "HAND CREAM + SANITIZER, ROSE",
+      "PriceCut": 595,
+      "Price": 561.01,
+      "review": 200,
+      "name1": "HAND CREAM + SANITIZER, ROSE"
+    },
+    {
+      "id": 10,
+      "image": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/HandCream-M_360x.jpg?v=1644916543",
+      "name": "HAND CREAM + SANITIZER, MANDARIN",
+      "PriceCut": 595,
+      "Price": 561.01,
+      "review": 113,
+      "name1": "HAND CREAM + SANITIZER, MANDARIN"
+    }
+  ],
+  "shipping": [
+    {
+      "id": 1,
+      "email": "abcd@gmail.com",
+      "address": "ramnagar,nainital"
+    },
+    {
+      "email": "pandeyakshay010@gmail.com",
+      "address": "america",
+      "id": 2
+    },
+    {
+      "email": "akki@gmail.com",
+      "address": "mirzapur",
+      "id": 3
+    },
+    {
+      "email": "pandeyakshay010@gmail.com",
+      "address": "as",
+      "id": 4
+    },
+    {
+      "email": "akaydhinchak@gmail.com",
+      "address": "konoha",
+      "id": 5
+    },
+    {
+      "email": "pandeyakshay010@gmail.com",
+      "address": "delhi",
+      "id": 6
+    },
+    {
+      "email": "pandeyakshay010@gmail.com",
+      "address": "dholakpur",
+      "id": 7
+    },
+    {
+      "email": "pandeyakshay010@gmail.com",
+      "address": "as",
+      "id": 8
+    },
+    {
+      "email": "pandeyakshay010@gmail.com",
+      "address": "as",
+      "id": 9
+    },
+    {
+      "email": "pandeyakshay010@gmail.com",
+      "address": "as",
+      "id": 10
+    },
+    {
+      "email": "pandeyakshay010@gmail.com",
+      "address": "as",
+      "id": 11
+    },
+    {
+      "email": "pandeyakshay010@gmail.com",
+      "address": "as",
+      "id": 12
+    },
+    {
+      "email": "pandeyakshay010@gmail.com",
+      "address": "as",
+      "id": 13
+    },
+    {
+      "email": "pandeyakshay010@gmail.com",
+      "address": "konoha,itachiHome",
+      "id": 14
+    }
+  ]
+}

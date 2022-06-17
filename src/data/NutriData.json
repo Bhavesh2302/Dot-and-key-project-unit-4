@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "imageurl": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/280-x171-4.png?v=1626112370",
+    "jdgm-prev-badge__text": "(26)",
+    "name": "IKWI GLOW MELTABLES",
+    "ogprice": "Rs: 46.00",
+    "price": 495.0,
+    "Rating": "4.9/5",
+    "Strips": "30 strips"
+  },
+  {
+    "id": 2,
+    "imageurl": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/280-x171-2.png?v=1626112375",
+    "jdgm-prev-badge__text": "(210)",
+    "name": "IKWI GLOW MELTABLES",
+    "ogprice": "Rs: 665.00",
+    "price": 525.0,
+    "Rating": "4.7/5",
+    "Strips": "30 strips"
+  },
+  {
+    "id": 3,
+    "jdgm-prev-badge__text": "(224)",
+    "imageurl": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/IKWI_Gummies_Happy-Hair_Box_3D_Final-_2.png?v=1637837508",
+    "name": "IKWI HAPPY HAIR GUMMIES",
+    "ogprice": "Rs: 795.00",
+    "price": 645.0,
+    "Rating": "5.0/5",
+    "Strips": "30 strips"
+  },
+  {
+    "id": 4,
+    "imageurl": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/stress_bd483231-e6f1-4041-8897-dba7f96bafa1.png?v=1637835959",
+    "jdgm-prev-badge__text": "(284)",
+    "name": "IKWI STRESS LESS GUMMIES",
+    "ogprice": "Rs: 665.00",
+    "price": 595.0,
+    "Rating": "4.9/5",
+    "Strips": "30 strips"
+  },
+  {
+    "id": 5,
+    "imageurl": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/280-x171-2.png?v=1626112375",
+    "jdgm-prev-badge__text": "(339)",
+    "name": "IKWI SNOOZE PRO MELTABLES",
+    "ogprice": "Rs: 795.00",
+    "price": 420.0,
+    "Rating": "4.7/5",
+    "Strips": "30 strips"
+  }
+]

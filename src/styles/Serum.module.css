@@ -1,0 +1,52 @@
+.SerumOils {
+  text-align: center;
+  font-size: 45px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-top: 50px;
+}
+.serumProductname {
+  height: 54px;
+  box-sizing: border-box;
+  align-items: center;
+  font-size: 13px;
+  text-align: center;
+  font-weight: 600;
+  letter-spacing: 0.2px;
+  text-transform: uppercase;
+  display: -webkit-box;
+  max-width: 100%;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+.deletedPrice {
+  font-size: 10px;
+  margin-right: 15px;
+  font-weight: 600;
+  color: gray;
+}
+.Price {
+  color: #ff6781;
+  font-size: 10px;
+  font-weight: 700;
+}
+.addbutton {
+  background-color: #7b7b7b;
+  color: white;
+  width: 282px;
+  height: 28.6px;
+  border: none;
+  margin-left: 8px;
+  margin-right: 8px;
+  margin-top: 3px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.itemsDiv {
+  margin-left: 109px;
+  margin-right: 109px;
+  padding-top: 30px;
+  padding-left: 40px;
+  padding-bottom: 60px;
+}

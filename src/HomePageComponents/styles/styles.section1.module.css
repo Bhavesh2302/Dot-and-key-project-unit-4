@@ -1,0 +1,36 @@
+
+/* Home page top section */
+
+.Bhhshopsection1maindiv{
+    margin: auto;
+   margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+   align-items: center;
+    font-weight: 400;
+    letter-spacing: .05em;
+    font-size: 18px;
+ 
+    width: 95%;
+    gap:20px;
+    background-color: #fff;
+    color:#50504b
+    /* border:1px solid red; */
+  
+}
+
+
+.Bhhshopsection1div{
+    /* border: 1px solid black; */
+    width: 20%;
+    border-radius:10px ;
+    height: 195px;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+   
+}
+.Bhhshopsection1div img{
+   width: 100%;
+   border-top-left-radius: 10px;
+   border-top-right-radius: 10px;
+   
+}
