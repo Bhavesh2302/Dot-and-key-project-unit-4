@@ -1,0 +1,114 @@
+.topimg{
+    width:100%;
+}
+
+
+.change{
+    color: #3C3C3C;
+    font-size: 45px;
+    font-weight: 560;
+}
+
+.itemBox{
+    /* border: 1px solid black; */
+    /* height: 500px; */
+    width: 75%;
+    margin: auto;
+    display: flex;
+  flex-wrap: wrap;
+  /* flex: 33%; */
+  gap: 30px;
+  margin-top: 50px;
+}
+
+.card {
+    /* border: 1px solid black; */
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    width: 22%;
+    /* border: 1px solid black; */
+    /* height: auto; */
+    /* height: 350px; */
+    margin-bottom: 20px;
+  }
+
+  .valueBox{
+    width: 90%;
+    margin: auto;
+    font-size: 12px;
+    /* border: 1px solid black; */
+    letter-spacing: 0.5px;
+    text-transform: capitalize;
+    height: 50px;
+  }
+
+  .priceBox{
+    width: 43%;
+    margin: auto;
+    /* border: 1px solid blue; */
+    display: flex;
+    margin-top: 10px;
+  }
+
+  .cut{
+    text-decoration: line-through;
+    font-size: 11px;
+    width: 50%;
+    /* border: 1px solid red; */
+    letter-spacing: 0ch;
+    color: gray;
+    font-weight: bold;
+  }
+
+  .price{
+    width: 50%;
+    /* border: 1px solid black; */
+    font-size: 11px;
+    color:  red;
+    letter-spacing: 0ch;
+    font-weight: bold;
+    margin-bottom: 10px;
+   text-decoration: none;
+  }
+
+  .btn{
+    padding: 10px 30px;
+    margin-top: 10px;
+    background-color: gray;
+    color: white;
+    font-weight: bold;
+    border: 0ch;
+    width: 90%;
+    margin: auto;
+  }
+
+  .imgBox{
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+  .inImg{
+    width: 100%;
+  }
+
+  .icon{
+    /* border: 1px solid red; */
+    display: flex;
+   justify-content: space-between;
+   height: 15px;
+   margin-bottom: 10px;
+   margin-top: -10px;
+  }
+
+  .merge{
+    display: flex;
+  }
+
+
+  .blue{
+    color: blue;
+    font-size: 12px;
+    margin-top: 2px;
+    text-decoration: underline;
+  }
