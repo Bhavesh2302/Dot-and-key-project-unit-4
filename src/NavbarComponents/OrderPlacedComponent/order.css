@@ -1,0 +1,26 @@
+*{
+    background-color:#FBFBFB
+}
+img{
+    margin-top: 150px ;
+    width: 500px;
+    height: 370px;
+}
+h2{
+  animation: text 3s 1;
+}
+
+@keyframes text {
+    0%{
+        color: green ;
+        margin-bottom: 30px;
+    }
+    30%{
+        letter-spacing: 15px;
+        margin-bottom: 10px;
+    }
+    85%{
+        letter-spacing: 8px;
+        margin-bottom: 40px;
+    }
+}
