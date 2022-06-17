@@ -1,6 +1,6 @@
 import React from 'react'
-import style from '../style/contact.module.css'
-import styles from '../style/message.module.css'
+import style from './contact.module.css'
+import styles from './message.module.css'
 const Contact = () => {
   return (
     <div className={style.contact}>
