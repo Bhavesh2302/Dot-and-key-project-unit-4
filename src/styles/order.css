@@ -1,0 +1,22 @@
+*{
+    background-color:#FBFBFB
+}
+
+h4{
+  animation: texts 3s 1;
+}
+
+@keyframes texts {
+    0%{
+        color: green ;
+        margin-bottom: 30px;
+    }
+    30%{
+        letter-spacing: 15px;
+        margin-bottom: 10px;
+    }
+    85%{
+        letter-spacing: 8px;
+        margin-bottom: 40px;
+    }
+}

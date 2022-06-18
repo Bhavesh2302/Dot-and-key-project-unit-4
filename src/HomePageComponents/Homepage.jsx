@@ -16,9 +16,7 @@ import { Link } from 'react-router-dom';
 const Homepage = () => {
     return (
       <Link to="/">
-          <div style={{
-            marginTop:"150px"
-          }}>
+          <div>
             <ShopSection1></ShopSection1>
             <HomeCarousel1></HomeCarousel1>
             <OffersSlider />

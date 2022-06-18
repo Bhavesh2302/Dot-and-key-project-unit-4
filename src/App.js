@@ -2,20 +2,7 @@
 import { Route, Routes } from 'react-router-dom';
 import "swiper/css/bundle";
 import './App.css';
-import ShopSection1 from "./HomePageComponents/ShopSection1"
-import {HomeCarousel1} from './HomePageComponents/HomeCarousel1';
 import Footer from './HomePageComponents/Footer';
-import { Ingredients } from './HomePageComponents/Ingredients';
-import LoveShared from './HomePageComponents/LoveShared';
-import { NewArrival } from './HomePageComponents/NewArrivals';
-import { OffersSlider } from './HomePageComponents/OffersSlider';
-import { Reviews } from './HomePageComponents/Reviews';
-import { Skincare } from './HomePageComponents/Skincare';
-import SkincareJournal from './HomePageComponents/SkincareJournal';
-import Spotlight from './HomePageComponents/Spotlight';
-import Uncompromised from './HomePageComponents/Uncompromised';
-import { BestSeller } from './HomePageComponents/BestSeller.';
-import { Navbar1 } from './HomePageComponents/Navbar1';
 import Body from './pages/Body';
 import Haircare from './pages/Haircare';
 import haircare from "./data/haircare.json"
@@ -27,6 +14,12 @@ import Homepage from './HomePageComponents/Homepage';
 import Serum from './pages/Serum';
 import Nutri from './pages/Nutrition/Nutri';
 import Moisturizer from './pages/Moisturizer';
+import Form from './pages/Form';
+import Payment from './pages/Payment';
+import Order from './pages/Order';
+import Login from "./LoginPageComponents/Login"
+import SignUp from "./LoginPageComponents/SignUp"
+
 
 function App() {
   return (
@@ -34,14 +27,19 @@ function App() {
       <CartProvider>
         <Navbar></Navbar>
       </CartProvider>
-      {/* <Navbar1></Navbar1> */}
+
       <Routes>
         <Route path='/' element={ <Homepage></Homepage>}></Route>
+        <Route path='/login' element={<Login></Login>}></Route>
+        <Route path='/signup' element={<SignUp></SignUp>}></Route>
         <Route path='/body' element={<Body></Body>}></Route>
         <Route path='/hair' element={<CartProvider><Haircare haircare={haircare}></Haircare></CartProvider>}></Route>
         <Route path='/nutri' element={<CartProvider><Nutri></Nutri></CartProvider>}></Route>
         <Route path='/serum' element={<CartProvider><Serum></Serum></CartProvider>}></Route>
         <Route path="/mois" element={<CartProvider><Moisturizer></Moisturizer></CartProvider>}/>
+        <Route path='/checkout' element={<CartProvider><Form></Form></CartProvider>}></Route>
+        <Route path='/payment' element={<CartProvider><Payment></Payment></CartProvider>}></Route>
+        <Route path='/order' element={<Order></Order>}></Route>
         <Route path='/cart' element={<CartProvider><Cart></Cart></CartProvider>}></Route>
       </Routes>
       <Footer />

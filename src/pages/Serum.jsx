@@ -15,7 +15,7 @@ const Serum = () => {
     <div>
       <div>
         <img
-          style={{ width: "1518px", borderRadius: "15px" }}
+          style={{ width: "100%", borderRadius: "15px" }}
           src="https://cdn.shopify.com/s/files/1/0361/8553/8692/collections/By-catagory-10_1944x.png?v=1648272658"
           alt="serumOil"
         />

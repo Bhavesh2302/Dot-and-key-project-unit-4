@@ -1,0 +1,21 @@
+
+
+ .error {
+    color: #d02e2e;
+    background-color: #fff6f6;
+    border-color: #d02e2e;
+    border:1px solid;
+    padding: 6px 12px;
+    padding-left: 10px;
+    margin-bottom: 25px;
+    visibility: hidden;
+}
+
+.note, .errors {
+    padding: 6px 12px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    text-align: left;
+}
+a, div {
+    outline: none}
