@@ -35,7 +35,7 @@ const Slider2 = () => {
     <div
       style={{
         background: "#fcee91",
-        width: "100%",
+        width: "1520px",
         height: "600px",
       }}
     >

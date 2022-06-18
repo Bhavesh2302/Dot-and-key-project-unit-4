@@ -2,62 +2,37 @@ import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 import { Carousel, Card, Button } from 'react-bootstrap';
 import styles from "../styles/body.module.css"
-import { Swiper, SwiperSlide } from "swiper/react";
-
-// Import Swiper styles
-import "swiper/css";
-
-import "swiper/css/navigation";
-import "swiper/css/pagination";
-import "swiper/css/scrollbar";
-import { Navigation, Pagination, Autoplay } from "swiper";
-
-
 
 
 
 const Body = () => {
     return (
         <div>
-           <div style={{ marginTop: "100px" }} className={styles.bhcarousel1maindiv}>
-        <Swiper
-          className={styles.bhcarousel1}
-          spaceBetween={30}
-          centeredSlides={true}
-          autoplay={{
-            delay: 2500,
-            disableOnInteraction: false,
-          }}
-          pagination={{
-            clickable: true,
-          }}
-          navigation={true}
-          modules={[Autoplay, Pagination, Navigation]}
-        >
-          <SwiperSlide className={styles.bhcarousel1image}>
-            <img
-              style={{ borderRadius: "20px",width:"100%" }}
-              src="https://cdn.shopify.com/s/files/1/0361/8553/8692/files/shop_all_desk_3_3.png?v=1653457175"
-              alt="a"
-            />
-          </SwiperSlide>
-          <SwiperSlide className={styles.bhcarousel1image}>
-            a
-            <img
-              style={{ borderRadius: "20px",width:"100%" }}
-              src="https://cdn.shopify.com/s/files/1/0361/8553/8692/files/bodycare_desktop.png?v=1639668460"
-              alt="b"
-            />
-          </SwiperSlide>
-          <SwiperSlide className={styles.bhcarousel1image}>
-            <img
-              style={{ borderRadius: "20px",width:"100%" }}
-              src="https://cdn.shopify.com/s/files/1/0361/8553/8692/files/desk_home_4.png?v=1645176921"
-              alt="c"
-            />
-          </SwiperSlide>
-        </Swiper>
-      </div>
+            <div style={{marginTop: "100px"}}>
+                <Carousel>
+                    <Carousel.Item>
+                        <img
+                            className="d-block w-100"
+                            src="https://cdn.shopify.com/s/files/1/0361/8553/8692/files/shop_all_desk_3_3.png?v=1653457175"
+                            alt="First slide"
+                        />
+                    </Carousel.Item>
+                    <Carousel.Item>
+                        <img
+                            className="d-block w-100"
+                            src="https://cdn.shopify.com/s/files/1/0361/8553/8692/files/bodycare_desktop.png?v=1639668460"
+                            alt="Second slide"
+                        />
+                    </Carousel.Item>
+                    <Carousel.Item>
+                        <img
+                            className="d-block w-100"
+                            src="https://cdn.shopify.com/s/files/1/0361/8553/8692/files/desk_home_4.png?v=1645176921"
+                            alt="Third slide"
+                        />
+                    </Carousel.Item>
+                </Carousel>
+            </div>
             <br />
             <br />
             <div>
@@ -66,8 +41,8 @@ const Body = () => {
             <br />
             <br />
             <div>
-                <h2><strong>Just In</strong></h2>
-                <h1><strong>Body Care</strong></h1>
+                <h2>Just In</h2>
+                <h1>Body Care</h1>
             </div>
             <div className={styles.card}>
                 <Card style={{ width: '18rem' }}>
@@ -92,13 +67,13 @@ const Body = () => {
             <br />
             <br />
             <div>
-                <img src="https://cdn.shopify.com/s/files/1/0361/8553/8692/files/3-Model-Image-Desktop_2_1ac15045-7c83-4680-9bd8-6d5a5878a0c4.png?v=1636955347" alt="" style={{width:"100%"}} />
+                <img src="https://cdn.shopify.com/s/files/1/0361/8553/8692/files/3-Model-Image-Desktop_2_1ac15045-7c83-4680-9bd8-6d5a5878a0c4.png?v=1636955347" alt="" />
             </div>
             <br />
             <br />
             <div>
-                <h2><strong>Body</strong></h2>
-                <h1><strong>Scrub</strong></h1>
+                <h2>Body</h2>
+                <h1>Scrub</h1>
                 <p>Buff that Ruff</p>
             </div>
             <div className={styles.card}>
@@ -140,8 +115,8 @@ const Body = () => {
             <br />
             <br />
             <div>
-                <h2><strong>SERUM</strong></h2>
-                <h1><strong>LOTIONS</strong></h1>
+                <h2>SERUM</h2>
+                <h1>LOTIONS</h1>
                 <p>Hydrations your bae</p>
             </div>
             <div className={styles.card}>
@@ -183,8 +158,8 @@ const Body = () => {
             <br />
             <br />
             <div>
-                <h2><strong>BODY</strong></h2>
-                <h1><strong>BUTTER</strong></h1>
+                <h2>BODY</h2>
+                <h1>BUTTER</h1>
                 <p>Buttery, melt-in goodness</p>
             </div>
             <div className={styles.card}>
@@ -247,8 +222,8 @@ const Body = () => {
             <br />
             <br />
             <div>
-                <h2><strong>OUR</strong></h2>
-                <h1><strong>COMBOS</strong></h1>
+                <h2>OUR</h2>
+                <h1>COMBOS</h1>
             </div>
             <div className={styles.card} >
                 <Card style={{ width: '25rem' }}>
