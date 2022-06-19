@@ -1,0 +1,82 @@
+.bhnewarrivalsmaindiv{
+    margin: auto;
+    margin-top: 30px;
+    width: 90%;
+}
+
+
+.bhnewarrivalimages{
+    border-radius: 10px;
+width: 100%;
+    height: 280px;
+    
+}
+
+.bhnewarrivalratingicondiv{
+    margin-top: 5px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.bhnewarrivalsliderdiv{
+    margin-top: 30px;
+}
+
+/* .bhnewarrivalratingdiv{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+} */
+
+.bhnewarrivalratingdiv{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+
+}
+.bhnewarrivaldatadiv{
+    margin: auto;
+    width: 72%;
+    height:470px;
+ 
+    line-height: 20px;
+    /* border: 1px solid ; */
+    border-radius: 5px;
+
+  
+}
+.bhnewarrivalnamediv{
+    text-align: center;
+    margin-top: 15px;
+    font-size: 14px;
+    height: 50px;
+    line-height: 25px;
+    margin-left: 10px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.bhnewarrivalpricediv{
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+/* .bhnewarrivalbuttondiv{
+    margin-top: 15px;
+    font-size: 20px;
+} */
+.bhnewarrivalbuttondiv button{
+    display: block;
+    margin-top: 5px;
+     width: 100%;
+    padding: 20px 0 20px 0;
+    border-radius: 5px;
+    background-color: #50504b;
+    color: white;
+}
+
+.bhnewarrivalstarcolordiv{
+    color:#f7c629
+    
+}
+

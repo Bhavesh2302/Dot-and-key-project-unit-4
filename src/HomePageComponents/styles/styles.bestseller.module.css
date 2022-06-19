@@ -1,0 +1,84 @@
+.bhbestsellersmaindiv{
+    margin: auto;
+    margin-top: 30px;
+    width: 90%;
+}
+
+
+.bhbestsellerimages{
+    border-radius: 5px;
+width: 100%;
+    height: 280px;
+    
+}
+
+.bhbestsellerratingicondiv{
+    margin-top: 5px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.bhbestsellersliderdiv{
+    margin-top: 30px;
+}
+
+/* .bhbestsellerratingdiv{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+} */
+
+.bhbestsellerratingdiv{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+
+}
+.bhbestsellerdatadiv{
+    margin: auto;
+    width: 72%;
+    height:470px;
+ 
+    line-height: 20px;
+    /* border: 1px solid ; */
+    border-radius: 5px;
+
+  
+}
+.bhbestsellernamediv{
+    text-align: center;
+    margin-top: 15px;
+    font-size: 14px;
+    line-height: 25px;
+    width: 90%;
+    height: 50px;
+    margin-left: 10px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.bhbestsellerpricediv{
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+/* .bhbestsellerbuttondiv{
+    margin-top: 15px;
+    font-size: 20px;
+} */
+.bhbestsellerbuttondiv button{
+    display: block;
+    margin-top: 5px;
+     width: 100%;
+    padding: 15px 0 15px 0;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    background-color: #50504b;
+    color: white;
+}
+
+.bhbestsellerstarcolordiv{
+    color:#f7c629
+    
+}
+
