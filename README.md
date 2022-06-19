@@ -38,7 +38,7 @@ As part of our construct week for group project in Unit 4 at Masai School, we we
 ## Pages built
 
 
-**Landing Page**: It contains navbar, dropdown menu, products section, footer.
+**Landing Page**: It contains navbar, modal menu, products section, footer.
 
 **Create Account / Sign in**: For creating and signing an account.
 
@@ -168,7 +168,7 @@ As part of our construct week for group project in Unit 4 at Masai School, we we
 ## Lessons Learned
 
 - Use of GitHub to collaborate.
-- Insight into how Pages are actually built by ReactJs.
+- Insight into how Pages are actually built by React Js.
 - Learned Routing.
-- Building a website using HTML, CSS, Javascript(Local Storage), Bootstrap, React Js.
+- Building a website using HTML, CSS, Javascript(Local Storage), Bootstrap, React Js, Redux, React-redux, Redux-thunk, Swiper, Chakra Ui, Slick-slider.
 - How to read and understand colleague's code efficiently.
