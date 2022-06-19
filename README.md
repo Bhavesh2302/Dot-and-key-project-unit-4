@@ -37,6 +37,7 @@ As part of our construct week for group project in Unit 4 at Masai School, we we
 
 ## Pages built
 
+
 **Landing Page**: It contains navbar, dropdown menu, products section, footer.
 
 **Create Account / Sign in**: For creating and signing an account.
@@ -64,67 +65,85 @@ As part of our construct week for group project in Unit 4 at Masai School, we we
 ## Screenshots
 
 **Landing Page**
+
+
 ![App Screenshot](https://raw.githubusercontent.com/Bhavesh2302/dot-key-personal/master/Landing%20page.jpg)
 
 ![App Screenshot](https://raw.githubusercontent.com/Bhavesh2302/dot-key-personal/master/Navbar2.png)
 
-
 **Navbar**
+
+
 ![App Screenshot](https://raw.githubusercontent.com/Bhavesh2302/dot-key-personal/master/navbar.png)
 
-
 **Login**
+
+
 ![App Screenshot](https://raw.githubusercontent.com/Bhavesh2302/dot-key-personal/master/Login.jpg)
 
-
 **Signin**
+
+
 ![App Screenshot](https://raw.githubusercontent.com/Bhavesh2302/dot-key-personal/master/Signup.jpg)
 
-
 **Footer**
-![App Screenshot](https://raw.githubusercontent.com/Bhavesh2302/dot-key-personal/master/footer.png
 
+
+![App Screenshot](https://raw.githubusercontent.com/Bhavesh2302/dot-key-personal/master/footer.png)
 
 **Body Care**
+
+
 ![App Screenshot](https://raw.githubusercontent.com/Bhavesh2302/dot-key-personal/master/BodyCare.jpg)
 
-
 **Hair care**
+
+
 ![App Screenshot](https://raw.githubusercontent.com/Bhavesh2302/dot-key-personal/master/haircare.jpg)
 
-
 **Serum**
+
+
 ![App Screenshot](https://raw.githubusercontent.com/Bhavesh2302/dot-key-personal/master/serum.png)
 
-
 **Nutrition**
+
+
 ![App Screenshot](https://raw.githubusercontent.com/Bhavesh2302/dot-key-personal/master/nutrition.png)
 
-
 **Moisturizer**
+
+
 ![App Screenshot](https://raw.githubusercontent.com/Bhavesh2302/dot-key-personal/master/moisturiser.png)
 
-
 **Cart**
+
+
 ![App Screenshot](https://raw.githubusercontent.com/Bhavesh2302/dot-key-personal/master/cart.jpg)
 
 **Checkout**
-![App Screenshot](https://raw.githubusercontent.com/Bhavesh2302/dot-key-personal/master/checkout.png
 
+
+![App Screenshot](https://raw.githubusercontent.com/Bhavesh2302/dot-key-personal/master/checkout.png)
 
 **Payment**
+
+
 ![App Screenshot](https://raw.githubusercontent.com/Bhavesh2302/dot-key-personal/master/Payment.jpg)
 
-
 **About Us**
+
+
 ![App Screenshot](https://raw.githubusercontent.com/Bhavesh2302/dot-key-personal/master/about-us.png)
 
-
 **Contact Us**
+
+
 ![App Screenshot](https://raw.githubusercontent.com/Bhavesh2302/dot-key-personal/master/contact-us.png)
 
-
 **Order Confirmed Page**
+
+
 ![App Screenshot](https://raw.githubusercontent.com/Bhavesh2302/dot-key-personal/master/OrderConfirmed.jpg)
 
 ## Roles and Responsibilities
