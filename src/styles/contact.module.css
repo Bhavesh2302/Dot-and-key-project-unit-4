@@ -1,0 +1,57 @@
+*{
+    font-family: Ubuntu, sans-serif;
+    ;
+}
+.contact{
+    /* border: 1px solid black; */
+    /* height: 30px; */
+    margin-bottom: 100px;
+}
+.contact>img{
+    /* border: 1px solid black; */
+    width: 70px;
+    height: 70px;
+    margin: auto;
+    margin-top: 45px;
+    margin-bottom: 50px;
+    
+    line-height: 50px
+}
+.contact>h2{
+    font-weight: 700;
+    font-size: 27px;
+}
+.contact>h3{
+    cursor: pointer;
+
+}
+h3:hover{
+    text-decoration: underline;
+}
+.contact>p{
+    line-height: 70px;
+    font-weight: 400;
+    font-size: 18px;
+}
+.contact>p2{
+    line-height:35px;
+    font-weight: 400;
+    font-size: 18px;
+}
+.contact>div{
+    width: 40%;
+    margin: auto;
+    /* border-top: 1px solid ; */
+    display:flex;
+    gap: 60px;
+}
+.contact>div>label{
+    font-weight: 700;
+    margin-left: 100px;
+}
+.contact>div>label>input{
+    margin-right:-190px ;
+    height: 25px;
+    width: 250px;
+    border: 0.2px solid grey;
+}

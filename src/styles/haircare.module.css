@@ -1,0 +1,29 @@
+.slider{
+    height: 400px;
+    width: 300px;
+    background-color: #c2d87a;
+   border-radius: 10px;
+    text-align: center;
+    margin-left: 40px;
+}
+.card{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+  justify-content: center;
+  /* margin: auto;
+   */
+   padding-left: 180px;
+  /* border: 1px solid red; */
+    gap: 40px;
+    background-image: url(https://cdn.shopify.com/s/files/1/0361/8553/8692/files/5_9852062b-daef-422d-bf00-c4b56acdeb28.png?v=1642765428);
+}
+.slider>h5{
+  margin-top: 50px;
+  background-color: #C2D87A
+}
+.slider>p{
+  margin-top: 10px;
+  background-color: #C2D87A;
+  /* border: 1px solid red; */
+  text-align: left;
+}

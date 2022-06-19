@@ -1,0 +1,277 @@
+{
+  "shopsection1": [
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/Untitled-1_6_256x256_18109629-935e-4b4a-b57d-bafd137dfc3d.jpg?v=1652335902",
+      "text": "BODYCARE",
+      "id": "1",
+      "name": "body"
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/2_10_256x256_8bff7558-6bbe-48bf-ab39-7374e49719bf.jpg?v=1652335951",
+      "text": "HAIRCARE",
+      "id": "2",
+      "name": "hair"
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/3_11_256x256_e7c09569-74b4-4d0c-9051-26ab4e442e4a.jpg?v=1652335973",
+      "text": "NUTRITION",
+      "id": "3",
+      "name": "nutri"
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/1_19_256x256_9865ad78-1e72-4e98-bc3e-4e23cf20f9f1.jpg?v=1652335996",
+      "text": "SERUM",
+      "id": "4",
+      "name": "serum"
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/Untitled-1_7_256x256_e1449924-9374-406e-b826-3f1c0613bcec.jpg?v=1652336019",
+      "text": "MOSTURIZER",
+      "id": "5",
+      "name": "mois"
+    }
+  ],
+  "homecarousel1": [
+    "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/1-Product_banner_Desktop_4.jpg?v=1651751278",
+    "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/1-Product_banner_Desktop_3.jpg?v=1651751278",
+    "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/2-Vit-C_5.jpg?v=1651751278",
+    "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/Probiotic_Home_Page_Banner-01_1_15b4bffa-e658-4693-9b64-cfc9efcb99cb.jpg?v=1653990558",
+    "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/1_desk_73e2615b-0026-447e-81af-fe6041105ce8.png?v=1653371967"
+  ],
+  "Offersslider": [
+    "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/Sale_Banner1600_500.jpg?v=1654626718",
+    "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/6DED8D82-1F40-4F87-8755-7C20094B4F05.jpg?v=1654025006"
+  ],
+
+  "bestseller":[
+
+    {
+      "id":1,
+      "imageurl":"https://cdn.shopify.com/s/files/1/0361/8553/8692/products/1-Vit-C-Moisturizer-A_-Listing-NEW_e75ddb63-7d9e-4e71-bb35-0e050969a6b1.jpg?v=1654856343",
+"color":"ytellow",
+"text":"Vitamin C Moisturizer With Kakadu Plum &amp; Vitamin E| Fades Pigmentation &amp; Dark Spots| Oily &amp; Dry Skin| Women and Men",
+"price":565,
+"rating":""
+    },
+    {
+      "id":2,
+"imageurl":"https://cdn.shopify.com/s/files/1/0361/8553/8692/products/PROBIOTICS.jpg?v=1655302709",
+"text":"CICA Niacinamide Night Gel  With Green Tea, Tea Tree Oil &amp; Hyaluronic| Reduces Acne &amp; Dark Spots | Oily, Acne Prone &amp; Sensitive Skin| Women &amp;  Men",
+
+"price":565,
+"rating":""
+
+    },
+    {
+      "id":3,
+"imageurl":"https://cdn.shopify.com/s/files/1/0361/8553/8692/products/CICANIGHTGEL.jpg?v=1655302658",
+"text":"10% Niacinamide Face Serum With Zinc &amp; Antioxidants| Treats Acne, Dark Spots &amp; Acne Scars| For Oily, Sensitive ,Acne Prone Skin| Women &amp; Men",
+
+"price":598,
+"rating":""
+
+    },
+    {
+      "id":4,
+"imageurl":"https://cdn.shopify.com/s/files/1/0361/8553/8692/products/NIACINAMIDE.jpg?v=1655302937",
+"text":"Salicylic &amp; French Green Clay Face Mask With Match Tea| Reduces Acne, Dark Spots &amp; Blemishes| Oily &amp; Acne Prone Skin| Women &amp; Men",
+
+"price":660,
+"rating":""
+    },
+    {
+      "id":5,
+"imageurl":"https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_e423c2c9-3a60-4a5e-9bc0-b0526b7f3c01.jpg?v=1655302612",
+"text":"Retinol  &amp; Ceramide Age Defense Night Cream For Face| Treats Fine Lines &amp; Wrinkles | Mature, Combination, Dry Skin| Women &amp; Men",
+
+"price":850,
+"rating":""
+    },
+    {
+      "id":6,
+      "imageurl":"https://cdn.shopify.com/s/files/1/0361/8553/8692/products/LIPMASKW_APPLI.jpg?v=1655302830",
+      "text":"72 HR Hydrating Probiotic Gel Moisturizer For Face With Hyaluronic &amp; Rice Water| For Healthy,Soft Skin| Combination, Dry Skin| Women &amp; Men",
+      
+      "price":670,
+"rating":""
+    }
+
+  ],
+  "ingredients":[
+    "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/Artboard_2_5.jpg?v=1651302186",
+    "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/Artboard_2_copy_6.jpg?v=1651302186",
+    "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/Artboard_2_copy_3_d9bc89d4-734d-41af-a373-7957091c77ae.jpg?v=1651302188",
+    "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/Artboard_2_copy_2_423f5a0d-035f-41d2-a9dc-c8d428391c6c.jpg?v=1651302176"
+  ],
+  "skincare":[
+    "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/glow_3.jpg?v=1652438348",
+    "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/moist.jpg?v=1652438356",
+    "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/acne_3_7d4b5389-228e-42ce-9008-0454cff9e3d2.jpg?v=1652438447",
+    "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/serum.jpg?v=1652438356"
+
+  ],
+
+
+
+ "newarrivals":[
+  {
+      "id":1,
+      "imageurl": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_35e55b48-0b45-41a1-a9cc-1d07cb4bbf46.jpg?v=1649327262",
+      "rating": "4.8/5 (43)",
+      "name": "Argan Oil Anti hairfall Shampoo with Moringa & Keratin Sulphate Free Women & Men",
+      "price": 590.75
+  },
+  {
+      "id":2,
+      "imageurl": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_3_20f621c6-95e5-442c-8d96-1be670078ef6.jpg?v=1646476389",
+      "rating": "4.7/5 (24)",
+      "name": "Pea Peptide Strengthening Moringa & Argan Hair Mask",
+      "price":  548.25
+  },
+  {
+      "id":3,
+      "imageurl": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-5_1_11bc8a1c-3330-413c-8aaf-bd1ebdb23dbe.jpg?v=1646476045",
+      "rating": "4.8/5 (26)",
+      "name": "Pea Peptide + Cysteine Hair Volumising Serum",
+      "price": 633.25
+  },
+  {
+      "id":4,
+      "imageurl": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-4_3.jpg?v=1646476025",
+      "rating": " 4.9/5 (22)",
+      "name": "AHA Exfoliation Apple Cider Hair & Scalp Scrub",
+      "price": 590.75
+  },
+  {
+      "id":5,
+      "imageurl": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-6_1_3728096d-d7d3-4616-923f-4220451f4cef.jpg?v=1646476077",
+      "rating": "4.7/5 (28)",
+      "name": "Quinoa Protein & Olive Damage Repair Shampoo",
+      "price": 590.75
+  },
+  {
+      "id":6,
+      "imageurl": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-2_2_6fc754d7-d198-4000-b394-a0f6582c51c8.jpg?v=1646475973",
+      "rating": "4.6/5 (18)",
+      "name": "Hyaluronic Hydrating Quinoa Protein & Olive Hair Mask",
+      "price": 548.25
+  },
+  {
+      "id":7,
+      "imageurl": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-3_3.jpg?v=1646475997",
+      "rating": " 4.9/5 (17)",
+      "name": "Hyaluronic + Ceramide Hair Treatment Serum",
+      "price":  633.25
+  },
+  {
+      "id":8,
+      "imageurl": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/2_7.jpg?v=1643096418",
+      "rating": "5.0/5 (10)",
+      "name": "Ditch the Damage Combo",
+      "price":  1772.00
+  },
+  {
+      "id":9,
+      "imageurl": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/4_6_44a76a9c-93bc-4179-a6f8-bc5f0794ee05.jpg?v=1643096708",
+      "rating": "4.8/5 (43)",
+      "name": "Argan Oil Anti hairfall Shampoo with Moringa & Keratin Sulphate Free Women & Men",
+      "price": 590.75
+  },
+  {
+      "id":10,
+      "imageurl": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_35e55b48-0b45-41a1-a9cc-1d07cb4bbf46.jpg?v=1649327262",
+      "rating": "5.0/5 (9)",
+      "name": "Care & Repair Power Combo",
+      "price": 1139.00
+  },
+  {
+      "id":11,
+      "imageurl": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/1_5.jpg?v=1643113374",
+      "rating": "4.8/5 (15)",
+      "name": "Hairfall Farewell Combo",
+      "price": 1772.00
+  }
+],
+"reviews":[
+  {
+    "id":1,
+    "imageurl": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-7_3_360x.jpg?v=1648088593",
+    "rating": "4.8/5 (15)",
+    "name": "12% AHA + 2% HYALURONIC EXFOLIATING SLEEP MASK",
+    "price":  895.00,
+    "review":"I swear by this product. Brought it as a sample from Smytten.very good product"
+  
+},
+{
+  "id":2,
+  "imageurl": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/Untitled-1_2.png?v=1634903414",
+  "rating": "4.8/5 (15)",
+  "name": "CICA Niacinamide Night Gel With Green Tea, Tea Tree Oil & Hyaluronic| Reduces Acne & Dark Spots | Oily, Acne Prone & Sensitive Skin| Women & Men",
+  "price":  565.01,
+  "review":"Very good for pores. Gives a flawless look to the skin after washing."
+
+},
+
+{
+  "id":3,
+  "imageurl": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/Artboard1_2.jpg?v=1635157945",
+  "rating": "4.8/5 (15)",
+  "name": "Vitamin C Moisturizer With Kakadu Plum & Vitamin E| Fades Pigmentation & Dark Spots| Oily & Dry Skin| Women and Men",
+  "price": 565.01,
+  "review":"This serum works wonders for my sensitive skin. Wasn’t expecting such a visible difference."
+  
+
+},
+{
+  "id":4,
+  "imageurl": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/a.jpg?v=1634903074",
+  "rating": "4.8/5 (15)",
+  "name": "Vitamin C Lip Mask With Vitamin E, Shea Butter,Hyaluronic & Almond Oil| Treats Pigmented Dark Lips| Women & Men",
+  "price": 422.00,
+  "review":" I have dry skin and ordered this product for my acne and acne scars."
+
+
+},
+
+
+{
+  "id":5,
+  "imageurl": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/VitaminCSleepMask.png?v=1635159354",
+  "rating": "4.8/5 (15)",
+  "name": "Pineapple & Vitamin C Face Sleep Mask With Hyaluronic| For Skin Glow| Fades Pigmentation & Dark Spots| Oily, Dry & Combination Skin| Women & Men",
+  "price": 845.00,
+  "review":"It has a very light texture which absorbs in skin quite easily."
+},
+
+
+
+{
+  "id":6,
+  "imageurl": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/IMG_1809.jpg?v=1635158810",
+  "rating": "4.8/5 (15)",
+  "name": "HYALURONIC + CERAMIDE HYDRATING FACE SERUM",
+  "review":"I love the Hydrating Hyaluronic Face Serum. It keeps my face soft and perfectly hydrated.",
+  "price": 598.00
+},
+
+{
+  "id":6,
+  "imageurl": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/image-2.png?v=1635158596",
+  "review":"I ordered 72 hour hydrating gel + probiotics, I found it very relaxing and soothing on my skin.",
+  "rating": "4.8/5 (15)",
+  "name": "72 HR Hydrating Probiotic Gel Moisturizer For Face With Hyaluronic & Rice Water| For Healthy,Soft Skin| Combination, Dry Skin| Women & Men",
+  "price": 598
+  
+}
+
+],
+"uncompromised":[
+  "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/3-ICONS.png?v=1645770027",
+  "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/1-ICONS_b6233563-9f3e-43f6-b158-5205886e2120.png?v=1645779546",
+  "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/4-ICONS.png?v=1645770027",
+  "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/2-ICONS.png?v=1645770027"
+]
+
+
+
+}

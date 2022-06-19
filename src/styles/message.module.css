@@ -1,0 +1,11 @@
+*{
+    aspect-ratio: auto;
+}
+.message{
+    width: 60%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: flex-start; */
+}
+
