@@ -31,7 +31,7 @@ As part of our construct week for group project in Unit 4 at Masai School, we we
 - Javascript
 - Bootstrap
 - Chakra Ui
-- ReactJS
+- React JS
 
 
 
