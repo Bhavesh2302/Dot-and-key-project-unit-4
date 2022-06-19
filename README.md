@@ -95,7 +95,7 @@ As part of our construct week for group project in Unit 4 at Masai School, we we
 **Moisturizer**
 ![App Screenshot](https://raw.githubusercontent.com/Bhavesh2302/dot-key-personal/master/moisturiser.png)
 
-**cart**
+**Cart**
 ![App Screenshot](https://raw.githubusercontent.com/Bhavesh2302/dot-key-personal/master/cart.jpg)
 
 **Checkout**
@@ -137,5 +137,5 @@ As part of our construct week for group project in Unit 4 at Masai School, we we
 - Use of GitHub to collaborate.
 - Insight into how Pages are actually built by ReactJs.
 - Learned Routing.
-- Building a website using HTML, CSS, Javascript(Local Storage), Bootstrap, ReactJs.
+- Building a website using HTML, CSS, Javascript(Local Storage), Bootstrap, React Js.
 - How to read and understand colleague's code efficiently.
