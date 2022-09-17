@@ -9,7 +9,7 @@ As part of our construct week for group project in Unit 4 at Masai School, we we
 
 **Original website link**: https://www.dotandkey.com/
 
-**Netlify link of our project**: https://netlify-thinks-shashankfeb16-gmail-com-is-great-4e8e6.netlify.app/
+**Netlify link of our project**: https://dotandkey2.netlify.app/
 
 **Blog link**: https://medium.com/@akbaisla29041998/dot-key-skincare-8b9af4f0d8bc
 
