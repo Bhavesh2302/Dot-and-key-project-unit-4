@@ -47,7 +47,7 @@
 
     {
       "id":1,
-      "imageurl":"https://cdn.shopify.com/s/files/1/0361/8553/8692/products/1-Vit-C-Moisturizer-A_-Listing-NEW_e75ddb63-7d9e-4e71-bb35-0e050969a6b1.jpg?v=1654856343",
+      "imageurl":"https://i.imgur.com/QOYVVcM.png",
 "color":"ytellow",
 "text":"Vitamin C Moisturizer With Kakadu Plum &amp; Vitamin E| Fades Pigmentation &amp; Dark Spots| Oily &amp; Dry Skin| Women and Men",
 "price":565,
@@ -55,7 +55,7 @@
     },
     {
       "id":2,
-"imageurl":"https://cdn.shopify.com/s/files/1/0361/8553/8692/products/PROBIOTICS.jpg?v=1655302709",
+"imageurl":"https://i.imgur.com/USjNTXk.png",
 "text":"CICA Niacinamide Night Gel  With Green Tea, Tea Tree Oil &amp; Hyaluronic| Reduces Acne &amp; Dark Spots | Oily, Acne Prone &amp; Sensitive Skin| Women &amp;  Men",
 
 "price":565,
@@ -64,7 +64,7 @@
     },
     {
       "id":3,
-"imageurl":"https://cdn.shopify.com/s/files/1/0361/8553/8692/products/CICANIGHTGEL.jpg?v=1655302658",
+"imageurl":"https://i.imgur.com/dqNo6NN.png",
 "text":"10% Niacinamide Face Serum With Zinc &amp; Antioxidants| Treats Acne, Dark Spots &amp; Acne Scars| For Oily, Sensitive ,Acne Prone Skin| Women &amp; Men",
 
 "price":598,
@@ -73,7 +73,7 @@
     },
     {
       "id":4,
-"imageurl":"https://cdn.shopify.com/s/files/1/0361/8553/8692/products/NIACINAMIDE.jpg?v=1655302937",
+"imageurl":"https://i.imgur.com/7KqRLrV.png",
 "text":"Salicylic &amp; French Green Clay Face Mask With Match Tea| Reduces Acne, Dark Spots &amp; Blemishes| Oily &amp; Acne Prone Skin| Women &amp; Men",
 
 "price":660,
@@ -81,7 +81,7 @@
     },
     {
       "id":5,
-"imageurl":"https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_e423c2c9-3a60-4a5e-9bc0-b0526b7f3c01.jpg?v=1655302612",
+"imageurl":"https://i.imgur.com/e9gmmNy.png",
 "text":"Retinol  &amp; Ceramide Age Defense Night Cream For Face| Treats Fine Lines &amp; Wrinkles | Mature, Combination, Dry Skin| Women &amp; Men",
 
 "price":850,
@@ -89,7 +89,7 @@
     },
     {
       "id":6,
-      "imageurl":"https://cdn.shopify.com/s/files/1/0361/8553/8692/products/LIPMASKW_APPLI.jpg?v=1655302830",
+      "imageurl":"https://i.imgur.com/aszntPU.png",
       "text":"72 HR Hydrating Probiotic Gel Moisturizer For Face With Hyaluronic &amp; Rice Water| For Healthy,Soft Skin| Combination, Dry Skin| Women &amp; Men",
       
       "price":670,
@@ -116,49 +116,49 @@
  "newarrivals":[
   {
       "id":1,
-      "imageurl": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_35e55b48-0b45-41a1-a9cc-1d07cb4bbf46.jpg?v=1649327262",
+      "imageurl": "https://i.imgur.com/m2IotHV.png",
       "rating": "4.8/5 (43)",
       "name": "Argan Oil Anti hairfall Shampoo with Moringa & Keratin Sulphate Free Women & Men",
       "price": 590.75
   },
   {
       "id":2,
-      "imageurl": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_3_20f621c6-95e5-442c-8d96-1be670078ef6.jpg?v=1646476389",
+      "imageurl": "https://i.imgur.com/9tV7F59.jpg",
       "rating": "4.7/5 (24)",
       "name": "Pea Peptide Strengthening Moringa & Argan Hair Mask",
       "price":  548.25
   },
   {
       "id":3,
-      "imageurl": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-5_1_11bc8a1c-3330-413c-8aaf-bd1ebdb23dbe.jpg?v=1646476045",
+      "imageurl": "https://i.imgur.com/XKKstAa.jpg",
       "rating": "4.8/5 (26)",
       "name": "Pea Peptide + Cysteine Hair Volumising Serum",
       "price": 633.25
   },
   {
       "id":4,
-      "imageurl": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-4_3.jpg?v=1646476025",
+      "imageurl": "https://i.imgur.com/9tV7F59.jpg",
       "rating": " 4.9/5 (22)",
       "name": "AHA Exfoliation Apple Cider Hair & Scalp Scrub",
       "price": 590.75
   },
   {
       "id":5,
-      "imageurl": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-6_1_3728096d-d7d3-4616-923f-4220451f4cef.jpg?v=1646476077",
+      "imageurl": "https://i.imgur.com/mGBIzVm.jpg",
       "rating": "4.7/5 (28)",
       "name": "Quinoa Protein & Olive Damage Repair Shampoo",
       "price": 590.75
   },
   {
       "id":6,
-      "imageurl": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-2_2_6fc754d7-d198-4000-b394-a0f6582c51c8.jpg?v=1646475973",
+      "imageurl": "https://i.imgur.com/qQMH2Zx.jpg",
       "rating": "4.6/5 (18)",
       "name": "Hyaluronic Hydrating Quinoa Protein & Olive Hair Mask",
       "price": 548.25
   },
   {
       "id":7,
-      "imageurl": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-3_3.jpg?v=1646475997",
+      "imageurl": "https://i.imgur.com/Xn1anIH.jpg",
       "rating": " 4.9/5 (17)",
       "name": "Hyaluronic + Ceramide Hair Treatment Serum",
       "price":  633.25
@@ -172,21 +172,21 @@
   },
   {
       "id":9,
-      "imageurl": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/4_6_44a76a9c-93bc-4179-a6f8-bc5f0794ee05.jpg?v=1643096708",
+      "imageurl": "https://i.imgur.com/m2IotHV.png",
       "rating": "4.8/5 (43)",
       "name": "Argan Oil Anti hairfall Shampoo with Moringa & Keratin Sulphate Free Women & Men",
       "price": 590.75
   },
   {
       "id":10,
-      "imageurl": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_35e55b48-0b45-41a1-a9cc-1d07cb4bbf46.jpg?v=1649327262",
+      "imageurl": "https://i.imgur.com/1iHano2.jpg",
       "rating": "5.0/5 (9)",
       "name": "Care & Repair Power Combo",
       "price": 1139.00
   },
   {
       "id":11,
-      "imageurl": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/1_5.jpg?v=1643113374",
+      "imageurl": "https://i.imgur.com/sAN3jnl.jpg",
       "rating": "4.8/5 (15)",
       "name": "Hairfall Farewell Combo",
       "price": 1772.00
@@ -195,7 +195,7 @@
 "reviews":[
   {
     "id":1,
-    "imageurl": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-7_3_360x.jpg?v=1648088593",
+    "imageurl": "https://i.imgur.com/aszntPU.png",
     "rating": "4.8/5 (15)",
     "name": "12% AHA + 2% HYALURONIC EXFOLIATING SLEEP MASK",
     "price":  895.00,
